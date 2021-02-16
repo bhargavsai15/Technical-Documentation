@@ -11,10 +11,3 @@ Welcome to GitHub  documentation!
    :caption: numbers:
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
