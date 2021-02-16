@@ -9,5 +9,8 @@ Welcome to GitHub  documentation!
 .. toctree::
    :maxdepth: 2
    :caption: numbers:
+   
+   
+   sample.md
 
 
